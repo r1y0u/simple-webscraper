@@ -1,2 +1,2 @@
 # Webscraper
-Simple webscraper that scrapes the google news website and get the headline artcles
+This is a simple web scraper that scrapes the google news website and get the headline articles from the website. 
